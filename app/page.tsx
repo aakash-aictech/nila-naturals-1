@@ -14,6 +14,7 @@ import { Newsletter } from "@/components/sections/Newsletter";
 import { Footer } from "@/components/Footer";
 
 
+
 // The Instagram masonry gallery is the heaviest, least SEO-critical section
 // (decorative photos, not indexable copy) so it's code-split out of the
 // initial bundle. `ssr: true` (the default) is kept explicit here so its
